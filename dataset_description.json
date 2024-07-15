@@ -1,24 +1,24 @@
 {
-  "Name": "PREDYS",
-  "BIDSVersion": "1.6.0",
-  "License": "CC0",
-  "Authors": [
-    "Elisa Gavard",
-    "Valerie Chanoine",
-    "Franziska Geringswald",
-    "Eddy Cavalli",
-    "Johannes Ziegler", 
-    "Julien Sein",
-    "Bruno Nazarian",
-    "Jean-Luc Anton"
-  ],
-  "Acknowledgements": "say here what are your acknowledgments",
-  "HowToAcknowledge": "say here how you would like to be acknowledged",
-  "Funding": [
-  "This research has been supported by funding from the Institute of Convergence ILCB (France 2030, ANR-16-CONV-0002) and the Excellence Initiative of Aix-Marseille University A*MIDEX (ANR-11-IDEX-0001-02), the LABEX CORTEX (ANR-11-LABX-0042) and the Excellence Initiative of the University of Lyon (ANR-11-IDEX-0007), and by the research grant “DYSsuccess” awarded to EC (ANR-18-CE28-0006)."
-  ],
-  "ReferencesAndLinks": [
-    "a data paper",
-    "a resource to be cited when using the data"
-  ]
+    "Name": "PREDYS",
+    "BIDSVersion": "1.6.0",
+    "License": "CC0",
+    "Authors": [
+        "Elisa Gavard",
+        "Valerie Chanoine",
+        "Franziska Geringswald",
+        "Eddy Cavalli",
+        "Johannes Ziegler",
+        "Julien Sein",
+        "Bruno Nazarian",
+        "Jean-Luc Anton"
+    ],
+    "Acknowledgements": "say here what are your acknowledgments",
+    "HowToAcknowledge": "say here how you would like to be acknowledged",
+    "Funding": [
+        "This research has been supported by funding from the Institute of Convergence ILCB (France 2030, ANR-16-CONV-0002) and the Excellence Initiative of Aix-Marseille University A*MIDEX (ANR-11-IDEX-0001-02), the LABEX CORTEX (ANR-11-LABX-0042) and the Excellence Initiative of the University of Lyon (ANR-11-IDEX-0007), and by the research grant “DYSsuccess” awarded to EC (ANR-18-CE28-0006)."
+    ],
+    "ReferencesAndLinks": [
+        "a data paper",
+        "a resource to be cited when using the data"
+    ]
 }

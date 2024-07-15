@@ -1,0 +1,20 @@
+Dataset description ===  This is the dataset that accompanies the following publication in Preparation  
+Title : "Semantic and syntactic prediction in reading and visuo-motor statistical learning: an fMRI study in dyslexic students."
+Authors : Elisa Gavard, Valérie Chanoine, Franziska Geringswald, Eddy Cavalli, Jean-Luc Anton & Johannes C. Ziegler 
+
+The dataset contains anatomical and functional MRI images
+ of 49 partipants (25 typical and  24 dyslexic readers)
+
+PREDYS 
+
+-- raw_data = BIDS Directory Structure
+    -- Subject-level data  --- raw MRI images at 3 T
+    	sub-{id}/anat   --- anatomical
+    	sub-{id}/dwi    --- diffusion-weighted
+    	sub-{id}/fmap   --- functional
+    	sub-{id}/funct  --- fieldmap
+
+    -- sourcedata       ---  experimental files during scanning
+
+-- code ---  scripts of data analyses
+ 

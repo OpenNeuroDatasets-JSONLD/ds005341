@@ -6,12 +6,11 @@
         "Elisa Gavard",
         "Valerie Chanoine",
         "Franziska Geringswald",
-	"Julien Sein",
+        "Julien Sein",
         "Bruno Nazarian",
         "Jean-Luc Anton",
         "Eddy Cavalli",
         "Johannes Ziegler"
-        
     ],
     "Acknowledgements": "The authors wish to thank Yufei Tan for her help for MRI acquisition for all the 50 subjects, and Leonardo Pinto Arata for his help with the R code for the LMM analysis. The authors also wish to thank all participants for their valuable contributions to this study.",
     "HowToAcknowledge": "say here how you would like to be acknowledged",

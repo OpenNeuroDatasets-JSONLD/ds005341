@@ -9,7 +9,9 @@ The dataset contains anatomical and functional MRI images
 PREDYS 
 
 -- raw_data = BIDS Directory Structure
+
     -- Subject-level data  --- raw MRI images at 3 T
+
     	sub-{id}/anat   --- anatomical
     	sub-{id}/dwi    --- diffusion-weighted
     	sub-{id}/fmap   --- functional

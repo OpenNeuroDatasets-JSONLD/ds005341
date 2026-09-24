@@ -1,14 +1,8 @@
-VERSION 2
-Dataset description ===  This is the dataset that accompanies the following publication in Preparation 
-Title : "A machine learning-based pipeline to decode typical and dyslexic adult readers using fMRI data"
-Authors : Elisa Gavard, Youssef Tardi, Johannes C. Ziegler & Valérie Chanoine
+VERSION 2 Dataset description === This is the dataset that accompanies the following publication:
+Gavard, E., Trardi, Y., Ziegler, J. C. & Chanoine, V. (in revision). A machine learning-based pipeline to decode typical and dyslexic adult readers using fMRI data. NeuroImage: Reports.
 
-
-VERSION 1
-Dataset description ===  This is the dataset that accompanies the following publication accepted in Neurobiology of Language
-Title : "Neural Networks for Semantic and Syntactic Prediction and Visuo-Motor Statistical Learning in Adult Readers with and without Dyslexia."
-Authors : Elisa Gavard, Valérie Chanoine, Franziska Geringswald, Jean-Luc Anton, Eddy Cavalli & Johannes C. Ziegler 
-
+VERSION 1 Dataset description ===  This is the dataset that accompanies the following publication:  
+Gavard, E., Chanoine, V., Geringswald, F., Anton, J-L., Cavalli, E., & Ziegler, J. C. (2025). Neural Networks for Semantic and Syntactic Prediction and Visuo-Motor Statistical Learning in Adult Readers with and without Dyslexia. Neurobiology of Language. doi: 10.1162/nol.a.8
 
 
 The dataset contains anatomical and functional MRI images
@@ -26,4 +20,7 @@ PREDYS
     	sub-{id}/funct  --- fieldmap
 
     -- sourcedata       ---  experimental files during scanning
+
+-- code                       --- code for the publication on Machine Learning 
+-- derivatives            --- preprocessed data for the publication on Machine Learning 
  
